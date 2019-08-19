@@ -1,0 +1,13 @@
+Pratical blogs for linear programming:
+
+Using Pulp lib:
+
+https://hackernoon.com/linear-programming-in-python-a-straight-forward-tutorial-a0d152618121
+
+This one also uses Pulp. However, it is much more detailed.
+
+https://towardsdatascience.com/linear-programming-and-discrete-optimization-with-python-using-pulp-449f3c5f6e99
+
+Using sciPy lib:
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.linprog.html
